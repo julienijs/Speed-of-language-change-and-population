@@ -10,6 +10,8 @@ This project incorporates three datasets:
 - C-CLAMP corpus
 - dataset with population sizes of cities in Belgium and the Netherlands in the 19th and 20th century
 
+Note: since the presentation and article are both in Dutch, the R script also produces graphs with annotations in Dutch.
+
 ## References
 Datasets:
 - Bairoch, P., Batou, J. & Chèvre, P. (1988). La population des villes européennes de 800 à 1850. Geneva: Librarie Droz.
