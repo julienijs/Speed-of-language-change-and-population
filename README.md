@@ -10,6 +10,10 @@ This project incorporates three datasets:
 - C-CLAMP corpus
 - dataset with population sizes of cities in Belgium and the Netherlands in the 19th and 20th century
 
+R script:
+- 3 bins
+- compare coefficients
+
 Note: since the presentation and article are both in Dutch, the R script also produces graphs with annotations in Dutch.
 
 ## References
