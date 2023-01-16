@@ -6,8 +6,8 @@ There exists a correlation between the demographic structure of the speech commu
 
 ## Data & code
 This project incorporates three datasets: 
-- A dataset of the hortative alternation (laat ons naar het park gaan vs laten we naar het park gaan)
-- A dataset of the deflexion of *veel* (in het gezelschap van vele mensen vs in het gezelschap van veel mensen)
+- A dataset of the hortative alternation (*laat ons naar het park gaan* vs *laten we naar het park gaan*)
+- A dataset of the deflexion of *veel* (*in het gezelschap van vele mensen* vs *in het gezelschap van veel mensen*)
 - A dataset with population sizes of cities in Belgium and the Netherlands in the 19th and 20th century (De Vries 1948; Chandler 1987; Bairoch, Batou, Chèvre 1988; Mitchell 1998)
 
 The data for the two changes, together with the birthplaces of the authors, was extracted from C-CLAMP (Piersoul, De Troij & Van de Velde 2021), a corpus of Dutch excerpts from cultural magazines, written between 1837 and 1999. The data were then linked with population numbers from the year 1850 of the birthplaces of the authors. The resulting dataset was split into three bins, based on the size of the population for each birthplace, where each bin contains larger cities compared to the pervious bin. For each bin, one logistic regression model was fitted per change, with the variant as the response variable and the year as the predictor. Next, the slopes of these models were taken as a proxy for the speed of the change. For both changes, the largest slope belongs to the bin that contains the cities with the largest population count. However, there is considerable overlap between the confidence intervals of the slopes for both changes.
