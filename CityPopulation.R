@@ -1,5 +1,3 @@
-setwd("C:/Users/Datasets") # insert working directory
-
 library(dplyr)
 library(readxl)
 library(tidyverse)
