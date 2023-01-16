@@ -14,6 +14,8 @@ R script:
 - 3 bins
 - compare coefficients
 
+The data for these two changes, together with the birthplaces of the authors, was extracted from C-CLAMP, a corpus of Dutch excerpts from cultural magazines, written between 1837 and 1999. The data were then linked with population numbers from the year 1850 of the birthplaces of the authors. The resulting dataset was split into three bins, based on the size of the population for each birthplace, where each bin contains larger cities compared to the pervious bin. For each bin, one logistic regression model was fitted per change, with the variant as the response variable and the year as the predictor. Next, the slopes of these models were taken as a proxy for the speed of the change. For both changes, the largest slope belongs to the bin that contains the cities with the largest population count. However, there is considerable overlap between the confidence intervals of the slopes for both changes. Therefore, this study only hints at the possibility that language propagation occurs more rapidly in larger cities, but it provides no clear evidence that this is indeed the case.
+
 Note: since the presentation and article are both in Dutch, the R script also produces graphs with annotations in Dutch.
 
 ## References
