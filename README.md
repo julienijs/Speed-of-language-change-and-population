@@ -10,7 +10,7 @@ This project incorporates three datasets:
 - A dataset of the deflexion of *veel* (*in het gezelschap van vele mensen* vs *in het gezelschap van veel mensen*)
 - A dataset with population sizes of cities in Belgium and the Netherlands in the 19th and 20th century (De Vries 1948; Chandler 1987; Bairoch, Batou, Chèvre 1988; Mitchell 1998)
 
-The data for the two changes, together with the birthplaces of the authors, was extracted from C-CLAMP (Piersoul, De Troij & Van de Velde 2021), a corpus of Dutch excerpts from cultural magazines, written between 1837 and 1999. The data were then linked with population numbers from the year 1850 of the birthplaces of the authors. The resulting dataset was split into three bins, based on the size of the population for each birthplace, where each bin contains larger cities compared to the pervious bin. For each bin, one logistic regression model was fitted per change, with the variant as the response variable and the year as the predictor. Next, the slopes of these models were taken as a proxy for the speed of the change. For both changes, the largest slope belongs to the bin that contains the cities with the largest population count. However, there is considerable overlap between the confidence intervals of the slopes for both changes.
+The data for the two changes, together with the birthplaces of the authors, were extracted from C-CLAMP (Piersoul, De Troij & Van de Velde 2021), a corpus of Dutch excerpts from cultural magazines, written between 1837 and 1999. The scripts then link the data of the language change with population numbers from the year 1850 of the birthplaces of the authors. The resulting datasets were split into three bins, based on the size of the population for each birthplace, where each bin contains larger cities compared to the pervious bin. For each bin, one logistic regression model was fitted per change, with the variant as the response variable and the year as the predictor. Next, the slopes of these models were taken as a proxy for the speed of the change. For both changes, the largest slope belongs to the bin that contains the cities with the largest population count. However, there is considerable overlap between the confidence intervals of the slopes for both changes.
 
 Results for the hortative alternation:
 
@@ -22,7 +22,7 @@ Results for the deflection of *veel*:
 ![Deflexie van veel](https://user-images.githubusercontent.com/107923146/212686616-e951b6ff-717a-4384-97af-1e0f118c78c2.png)
 
 
-Note: since the presentation and article are both in Dutch, the R scripts also produce graphs with annotations in Dutch.
+Note: 1) Since the presentation and article are both in Dutch, the R scripts also produce graphs with annotations in Dutch. 2) Both scripts do exactly the same. The difference lies in the names used in the graphs.
 
 ## References
 Datasets:
