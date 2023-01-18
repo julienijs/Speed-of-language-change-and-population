@@ -22,7 +22,7 @@ Results for the deflection of *veel*:
 ![Deflexie van veel](https://user-images.githubusercontent.com/107923146/212686616-e951b6ff-717a-4384-97af-1e0f118c78c2.png)
 
 
-Note: since the presentation and article are both in Dutch, the R scripts also produces graphs with annotations in Dutch.
+Note: since the presentation and article are both in Dutch, the R scripts also produce graphs with annotations in Dutch.
 
 ## References
 Datasets:
