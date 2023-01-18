@@ -37,4 +37,4 @@ Language change:
 - Lupyan, G. & Dale R. (2010). Language structure is partly determined by social structure. PLoS One 5(1).
 
 Own research output:
-- Nijs, J. (2022). Populatie en de verspreiding van taalverandering. KZM, oktober 2022.
+- Nijs, J. (2022). Populatie en de verspreiding van taalverandering. KZM, oktober 2022. (presentation)
