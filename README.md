@@ -1,6 +1,6 @@
 # Speed of language change and population
 ## About the project
-This repository contains the script and datasets accompanying a [presentation (Nijs 2022)](https://kzm.be/programma-herfstvergadering-2022-15-oktober-2022-9-45-kantl-gent/) about the impact of population size on the speed of language change. I investigate whether language changes more rapidly in more densely populated cities, compared to less populated towns.
+This repository contains the script and datasets about the impact of population size on the speed of language change. I investigate whether language changes more rapidly in more densely populated cities, compared to less populated towns.
 
 There exists a correlation between the demographic structure of the speech community and a language’s morphosyntactic structure. Bigger languages in high-contact communities have been found to be morphologically less complex and more reliant on lexical strategies and word order compared to smaller languages in close-knit communities (Lupyan & Dale 2010). This can be explained by the proportion of L2-speakers. Complex morphology is harder to acquire for adults, so a high proportion of L2-speakers leads to morphological simplification (Dale & Lupyan 2012). Since differences in morphosyntactic complexity are the result of diachronic processes, the propagation of these processes should occur more rapidly in more densely populated areas. The idea is that the propagation of language change will be faster in cities with a larger population compared to cities with a smaller population, since the growth of cities is often due to immigration, rather than natural growth, yielding an influx of L2-learners, with knock-on effects on the speech of the indigenous population.
 
@@ -37,4 +37,4 @@ Language change:
 - Lupyan, G. & Dale R. (2010). Language structure is partly determined by social structure. PLoS One 5(1).
 
 Own research output:
-- Nijs, J. (2022). Populatie en de verspreiding van taalverandering. KZM, oktober 2022. (presentation)
+- [Nijs, J. (2022). Populatie en de verspreiding van taalverandering. KZM, oktober 2022. (presentation)](https://kzm.be/programma-herfstvergadering-2022-15-oktober-2022-9-45-kantl-gent/)
