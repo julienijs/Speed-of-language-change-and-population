@@ -26,15 +26,15 @@ Note: 1) Since the presentation and article are both in Dutch, the R scripts als
 
 ## References
 Datasets:
-- Bairoch, P., Batou, J. & Chèvre, P. (1988). La population des villes européennes de 800 à 1850. Geneva: Librarie Droz.
-- Chandler, T. (1987). Four thousand years of urban growth. Lewiston: St.David's University Press.
-- De Vries , J. (1984). Europeanurbanization, 1500-1800. London: Methuen & Co.
-- Mitchell, B.R. (1998). International historical statistics: Europe 1750-1993.London: Macmillan.
-- Piersoul, J., Van de Velde, F., & De Troij, R. (2021). 150 Years of written Dutch: the construction of the Dutch corpus of contemporary and late modern periodicals (Dutch C-CLAMP). Nederlandse Taalkunde, 26(3), 339–362.
+- Bairoch, P., Batou, J. & Chèvre, P. (1988). *La population des villes européennes de 800 à 1850*. Geneva: Librarie Droz.
+- Chandler, T. (1987). *Four thousand years of urban growth*. Lewiston: St.David's University Press.
+- De Vries , J. (1984). *Europeanurbanization, 1500-1800*. London: Methuen & Co.
+- Mitchell, B.R. (1998). *International historical statistics: Europe 1750-1993*. London: Macmillan.
+- Piersoul, J., Van de Velde, F., & De Troij, R. (2021). 150 Years of written Dutch: the construction of the Dutch corpus of contemporary and late modern periodicals (Dutch C-CLAMP). *Nederlandse Taalkunde, 26*(3), 339–362.
 
 Language change:
-- Dale, G. & Lupyan R. (2012). Understanding the origins of morphological diversity: the linguistic niche hypothesis. Advances in Complex Systems 15(3), 1150017-1-1150017-16.
-- Lupyan, G. & Dale R. (2010). Language structure is partly determined by social structure. PLoS One 5(1).
+- Dale, G. & Lupyan R. (2012). Understanding the origins of morphological diversity: the linguistic niche hypothesis. *Advances in Complex Systems 15*(3), 1150017-1-1150017-16.
+- Lupyan, G. & Dale R. (2010). Language structure is partly determined by social structure. *PLoS One 5*(1).
 
 Own research output:
 - [Nijs, J. (2022). Populatie en de verspreiding van taalverandering. KZM, oktober 2022. (presentation)](https://kzm.be/programma-herfstvergadering-2022-15-oktober-2022-9-45-kantl-gent/)
