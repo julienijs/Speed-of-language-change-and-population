@@ -32,6 +32,10 @@ Datasets:
 - Mitchell, B.R. (1998). *International historical statistics: Europe 1750-1993*. London: Macmillan.
 - Piersoul, J., Van de Velde, F., & De Troij, R. (2021). 150 Years of written Dutch: the construction of the Dutch corpus of contemporary and late modern periodicals (Dutch C-CLAMP). *Nederlandse Taalkunde, 26*(3), 339–362.
 
+My own datasets can be found on Zenodo:
+- Nijs Julie. (2023). The Hortative Alternation [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7920839
+- Nijs Julie. (2023). The deflection of veel [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7924755
+
 Language change:
 - Dale, G. & Lupyan R. (2012). Understanding the origins of morphological diversity: the linguistic niche hypothesis. *Advances in Complex Systems 15*(3), 1150017-1-1150017-16.
 - Lupyan, G. & Dale R. (2010). Language structure is partly determined by social structure. *PLoS One 5*(1).
